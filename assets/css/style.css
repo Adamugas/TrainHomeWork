@@ -1,0 +1,40 @@
+body{
+
+   }
+   
+   .addTrain:hover{
+       color:red;
+   }
+   
+   .jumbotron {
+       opacity: .8;
+       color: white;
+       background-image: url("../images/3.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       padding:100px; 
+   }
+   
+   .schedule{
+       opacity: .6;
+       background-color:lightsteelblue;
+       
+   }
+   .card-header{
+       background-color:lightblue;
+   }
+   .add, update {
+       background-color:lightsteelblue;
+       opacity:.6;
+   }
+   
+   .fa-pencil-alt:hover{
+       color:red;
+   }
+   .fa-trash:hover{
+       color:red;
+   }
+   
+   .-L_sq6L0zhnDOJe7lIbK{
+       color: red;
+   }
